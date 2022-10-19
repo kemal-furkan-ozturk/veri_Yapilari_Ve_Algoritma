@@ -2,7 +2,7 @@
 
 ## Selection Sort Projesi
 
-#### A. [2,27,16,22,18,6] 
+#### A. [22,27,16,2,18,6] 
 
 ####	** Yukarı verilen dizinin sort türüne göre aşamalarını ve Big-O gösterimini yazınız.
 #### 1-) [22,27,16,2,18,6] --> En küçük sayı bulunur ve ilk veri ile yer değiştirilir. (22->2)
