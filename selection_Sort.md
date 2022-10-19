@@ -11,8 +11,8 @@
 #### 4-) [2,6,16,22,18,27] --> Aynı işlem 4. en küçük sayı ve dördüncü sıradaki veri için tekrarlanır. (18->22)
 #### 5-) [2,6,16,18,22,27] --> Aynı işlem 5. en küçük sayı ve beşinci sıradaki veri için tekrarlanır. 22 sayısı zaten olması gereken yerde olduğu için sırası değiştirilmez. (22->22)
 #### 6-) [2,6,16,18,22,27] --> Aynı işlem 6. en küçük sayı ve altıncı sıradaki veri için tekrarlanır. 27 sayısı zaten olması gereken yerde olduğu için sırası değiştirilmez. (27->27)
-#### -Sonuç olarak veri sayısınca işlem ile sorting (sıralama) işlemi tamamlanır.
-#### -Insertion sort algoritmasında Big O Notion, (n*(n+1))/2 sonucundan elde edilen dominant faktöre göre O(n2) olarak bulunur.
+#### -Sonuç olarak sorting (sıralama) işlemi tamamlanır.
+#### -Selection sort algoritmasında Big O Notion, (n*(n+1))/2 sonucundan elde edilen dominant faktöre göre O(n2) olarak bulunur.
 #### ** Yukarı verilen worst, average ve worst case'e göre time complexity değerlerini yazınız.
 #### - Worst case: Elimizdeki veri dizisinin mümkün olan en ters şekilde sıralanmasıdır. Best case durumunun tam tersidir. Bu durumda işlem sayısı (n'den 1'e kadar) maksimum olacaktır. Bundan dolayı da O(n^2) olur.
 #### - Best case: Elimizdeki veri dizisinin sıralı bir şekilde olmasıdır. Bu durumda dizideki tüm elemanları tek tek sırasında mı diye kontrol edeceğimiz için time complexity yine O(n^2) olur.
