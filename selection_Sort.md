@@ -28,3 +28,4 @@
 #### 3-) [2, 3, 4, 8, 7, 9, 5, 15, 6] --> Aynı işlem 3. en küçük sayı ve üçüncü sıradaki veri için tekrarlanır. (5->4)
 #### 4-) [2, 3, 4, 5, 7, 9, 8, 15, 6] --> Aynı işlem 4. en küçük sayı ve dördüncü sıradaki veri için tekrarlanır. (8->5)
 
+#### İlk 4 adımın sonunda elde edeceğimiz veri seti şu şekilde olur: [2, 3, 4, 5, 7, 9, 8, 15, 6].
