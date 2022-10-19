@@ -21,7 +21,7 @@
 #### ** Dizi sıralandıktan sonra 18 sayısı hangi case kapsamına girer? Yazınız.
 #### - Dizinin sıralanmış hali [2,6,16,18,22,27] şeklindedir. "18" sayısı ortalarda sayılabileceği için bu durum average case kapsamına girer.
 
-#### B. [7,3,5,8,2,9,4,15,6] dizisinin Insertion Sort'a göre ilk 4 adımını yazınız
+#### B. [7,3,5,8,2,9,4,15,6] dizisinin Selection Sort'a göre ilk 4 adımını yazınız
 
 #### 1-) [2,3,5,8,7,9,4,15,6] --> En küçük sayı bulunur ve ilk veri ile yer değiştirilir. (7->2)
 #### 2-) [2,3,5,8,7,9,4,15,6] --> Daha sonra bu işlem 2. en küçük sayı ve ikinci sıradaki veri için tekrarlanır. Fakat burada 3 zaten olması gerektiği yerde olduğu için veri dizisi aynı şekilde kalır. (3->3)
